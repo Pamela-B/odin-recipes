@@ -1,1 +1,1 @@
-# odin-recipes
+Programming practice, starting on HTML and CSS
